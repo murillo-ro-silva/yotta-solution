@@ -17,6 +17,8 @@ In the [spark_solution.ipynb](spark_solution.ipynb) notebook, you will see how t
 3. Explode the nested `products` array so each product becomes a separate row.
 4. Select relevant columns (`customer_id`, `order_id`, `product_name`, `product_price`) in a flattened DataFrame.
 
+If you want to see a macro solution draw, feel free to access [simple_draw_solution.jpeg](simple_draw_solution.jpeg)  
+
 ## How to Run
 1. Clone this repository:  
    ```bash
