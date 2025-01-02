@@ -2,6 +2,8 @@
 
 This repository demonstrates a simple PySpark solution to read, transform, and flatten nested JSON data. Below you will find a link to the main notebook and a brief explanation of what it does.
 
+Coderbyte URL: https://torc.coderbyte.com/sl-candidate?promo=torc-8d513:technical-assessment-q9z0i6s&invb=usercps6vp2v
+
 ## Contents
 - [spark_solution.ipynb](spark_solution.ipynb)  
   - A Jupyter Notebook showing the step-by-step PySpark code and transformations.
